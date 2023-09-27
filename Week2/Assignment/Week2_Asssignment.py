@@ -10,3 +10,6 @@ Assignment:
 
 - (optional): Create another type of calculator inside the program (example: BMI calculator, financial calculators, etc)
 '''
+
+
+print("variable")
